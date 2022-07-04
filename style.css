@@ -1,0 +1,17 @@
+h1 {
+  font-family: "Courier New", Courier, monospace;
+  text-align: center;
+}
+.blog {
+  background-color: aqua;
+  border: 15px solid yellow;
+  border-radius: 10px;
+  padding: 20px 40px 20px 40px;
+  margin: 20px 40px 20px 40px;
+}
+.blog small {
+  color: white;
+}
+.blog p {
+  text-align: justify;
+}
